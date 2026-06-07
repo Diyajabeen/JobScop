@@ -1,4 +1,4 @@
-# JobScope AI — Intelligent Job Market Analytics Platform
+# JobScope — Intelligent Job Market Analytics Platform
 
 ## Overview
 
