@@ -14,7 +14,6 @@ The platform helps analyze datasets through modern dashboards and predictive ana
 - FastAPI backend APIs
 - React frontend with Tailwind CSS
 - Dynamic charts and visualizations
-- AI-generated insights
 - Machine learning prediction system
 - PDF report export
 - Search and filtering functionality
@@ -69,18 +68,7 @@ uvicorn main:app --reload
 - `/count`
 - `/top-states`
 - `/export-distribution`
-- `/ai-insights`
 - `/prediction`
-
----
-
-## Future Improvements
-
-- Authentication system
-- Live job market APIs
-- Advanced ML models
-- Cloud deployment
-- Resume analysis AI
 
 ---
 
