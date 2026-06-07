@@ -16,6 +16,7 @@ The platform helps analyze datasets through modern dashboards and predictive ana
 - Dynamic charts and visualizations
 - Machine learning prediction system
 - PDF report export
+- AI insights
 - Search and filtering functionality
 
 ---
@@ -68,6 +69,7 @@ uvicorn main:app --reload
 - `/count`
 - `/top-states`
 - `/export-distribution`
+- `/ai-insights`
 - `/prediction`
 
 ---
