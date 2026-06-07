@@ -2,7 +2,7 @@
 
 ## Overview
 
-JobScope AI is a full-stack analytics platform that provides interactive data visualization, AI-powered insights, machine learning predictions, and downloadable business reports.
+JobScope  is a full-stack analytics platform that provides interactive data visualization, AI-powered insights, machine learning predictions, and downloadable business reports.
 
 The platform helps analyze datasets through modern dashboards and predictive analytics.
 
